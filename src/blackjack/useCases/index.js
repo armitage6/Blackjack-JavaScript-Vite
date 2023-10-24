@@ -1,0 +1,5 @@
+export { crearDeck } from './create-deck'
+export { pedirCarta } from './request-card'
+export { valorCarta } from './value-card'
+export { turnoComputadora } from './computer-shift'
+export { createCardHtml } from './create-card-html'
